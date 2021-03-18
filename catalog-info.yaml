@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "iress-data-platform"
+  description: "All the information you will ever need on Iress Data Platform"
+  annotations:
+    github.com/project-slug: iress-mm/iress-data-platform-docs
+    backstage.io/techdocs-ref: url:https://github.com/iress-mm/iress-data-platform-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "iress-mm"

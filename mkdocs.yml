@@ -1,0 +1,8 @@
+site_name: "iress-data-platform"
+site_description: "All the information you will ever need on Iress Data Platform"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
